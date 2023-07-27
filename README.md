@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
   <br><br>
   <samp>
-    👋 Hi, I’m Avinash Kumar| System Analyst | Threat Intelligence | Cyber Security Professional | Top 7% on Tryhackme | Aspiring Penetration Tester | Java Programmer | Graphic Designer | Web Developer
+    👋 Hi, I’m Avinash Kumar| System Analyst | Threat Intelligence | Cyber Security Professional | Top 6% on Tryhackme | Aspiring Penetration Tester | Java Programmer | Graphic Designer | Web Developer
   </samp>
 </p>
 
