@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
   <br><br>
   <samp>
-    👋 Hi, I’m Avinash Kumar| System Analyst | Threat Intelligence | Cyber Security Professional | Top 6% on Tryhackme | Aspiring Penetration Tester | Java Programmer | Graphic Designer | Web Developer
+    👋 Hi, I’m Avinash Kumar  Cyber Security Professional| Aspiring Penetration Tester | Graphic Designer | Developer
   </samp>
 </p>
 
@@ -19,6 +19,9 @@
 
 ### :wrench: Tools & Technologies:
 
+![](https://img.shields.io/badge/OS-C-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-C++-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-JAVA-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
