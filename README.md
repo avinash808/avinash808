@@ -32,3 +32,5 @@
 [<img src="https://tryhackme.com/img/badges/introtooffensivesecurity.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/howthewebworks.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/linux.svg" width="100px">](https://tryhackme.com/p/avinash808)
+[<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100px">](https://tryhackme.com/p/avinash808)
+[<img src="https://tryhackme.com/img/badges/wireshark.svg" width="100px">](https://tryhackme.com/p/avinash808)
