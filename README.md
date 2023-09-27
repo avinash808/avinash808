@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Avinash Kumar  Cyber Security Professional| Aspiring Penetration Tester | Graphic Designer | Developer
+👋 Hi, I’m Avinash Kumar  Aspiring Penetration Tester | Proficient in C++, Java & Python Programming | Graphic Designer | Web Developer
 
 
 ## 🌐 Socials:
