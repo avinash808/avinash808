@@ -21,13 +21,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=avinash808&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=avinash808&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### :pushpin: TryHackMe:
 [<img src="https://tryhackme.com/img/badges/webbed.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/securityawareness.svg" width="100px">](https://tryhackme.com/p/avinash808)
@@ -36,3 +29,11 @@
 [<img src="https://tryhackme.com/img/badges/linux.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/owasptop10.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/wireshark.svg" width="100px">](https://tryhackme.com/p/avinash808)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=avinash808&icon=5&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
