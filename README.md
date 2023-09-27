@@ -31,6 +31,7 @@
 [<img src="https://tryhackme.com/img/badges/wireshark.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/ohsint.svg" width="100px">](https://tryhackme.com/p/avinash808)
 [<img src="https://tryhackme.com/img/badges/hashcracker.svg" width="100px">](https://tryhackme.com/p/avinash808)
+[<img src="https://tryhackme.com/img/badges/softwaresecurity.svg" width="100px">](https://tryhackme.com/p/avinash808)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
